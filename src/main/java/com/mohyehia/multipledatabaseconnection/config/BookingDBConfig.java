@@ -28,7 +28,7 @@ public class BookingDBConfig {
     }
 
     @Bean
-    @ConfigurationProperties(prefix = "spring.datasource.booking")
+    @ConfigurationProperties(prefix = "spring.booking.datasource")
     public DataSource bookingDataSource(){
         return DataSourceBuilder
                 .create()

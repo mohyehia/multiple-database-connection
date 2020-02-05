@@ -32,7 +32,7 @@ public class UserDBConfig {
 
     @Primary
     @Bean
-    @ConfigurationProperties(prefix = "spring.datasource.user")
+    @ConfigurationProperties(prefix = "spring.user.datasource")
     public DataSource userDataSource(){
         return DataSourceBuilder
                 .create()
