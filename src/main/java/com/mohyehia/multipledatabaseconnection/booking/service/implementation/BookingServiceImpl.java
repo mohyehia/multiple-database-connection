@@ -21,4 +21,9 @@ public class BookingServiceImpl implements BookingService {
     public List<Booking> findByUserId(long userId) {
         return bookingDAO.findByUserId(userId);
     }
+
+    @Override
+    public Booking save(Booking booking) {
+        return bookingDAO.save(booking);
+    }
 }
