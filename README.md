@@ -19,5 +19,6 @@ These instructions will get you a copy of the project up and running on your loc
 * Use any rest client like postman to test the end points for users & bookings.
 
 ### Acknowledgments
-These are the articles that helped me complete this repository:
-* [Baeldung blog](https://www.baeldung.com/spring-data-jpa-multiple-databases)
+These are the articles that helped me complete this application:
+* [Baeldung blog](https://www.baeldung.com/spring-data-jpa-multiple-databases) - Spring JPA – Multiple Databases
+* [Devglan blog](https://www.devglan.com/spring-boot/spring-boot-multiple-database-configuration) - Spring Boot Multiple Database Configuration Example
