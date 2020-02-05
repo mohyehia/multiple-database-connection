@@ -9,7 +9,7 @@ Spring boot application that connects to two dataSources
 * Maven
 
 ### Prerequisites
-Java 1.8 or greater, Spring boot 2.0 or greater, Maven, Intellij or Eclipse
+Java 1.8 or greater, Spring boot 2.0 or greater, Maven, IntelliJ or Eclipse
  
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes:
@@ -21,4 +21,3 @@ These instructions will get you a copy of the project up and running on your loc
 ### Acknowledgments
 These are the articles that helped me complete this repository:
 * [Baeldung blog](https://www.baeldung.com/spring-data-jpa-multiple-databases)
-* []()
